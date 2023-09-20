@@ -5,4 +5,4 @@ $ comms &
 
 $ busctl emit /foo/bar/hello foo.bar.hello hello /redfish/v1
 
-$ busctl emit /foo.bar/hello foo.bar.hello hello stop
+$ busctl emit /foo/bar/hello foo.bar.hello hello stop

@@ -1,5 +1,5 @@
 # comms
-Minimal experimental embedded http client with dbus signaling interface.
+Minimalistic experimental embedded http client with dbus signaling interface.
 
 $ comms &
 
